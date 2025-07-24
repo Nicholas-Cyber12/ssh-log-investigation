@@ -6,6 +6,7 @@ Aspiring Cybersecurity Analyst
 ---
 
 #### `REPORT.md`
+```markdown
 # Security Incident Report: SSH Brute-Force Investigation
 
 ## Incident Summary
