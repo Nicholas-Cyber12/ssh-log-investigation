@@ -1,6 +1,6 @@
 Nicholas Mabaso
 Aspiring Cybersecurity Analyst
-🔒 LinkedIn (optional)
+🔒 LinkedIn: www.linkedin.com/in/nicholasmabaso
 📚 Currently completing the Google Cybersecurity Certificate
 
 ---
