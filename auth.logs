@@ -1,0 +1,7 @@
+Jul 17 03:20:11 HR-SERVER-01 sshd[3012]: Failed password for charles.ngwenya from 196.54.102.19 port 50015 ssh2
+Jul 17 03:20:45 HR-SERVER-01 sshd[3013]: Failed password for charles.ngwenya from 196.54.102.19 port 50016 ssh2
+Jul 17 03:21:11 HR-SERVER-01 sshd[3014]: Failed password for charles.ngwenya from 196.54.102.19 port 50017 ssh2
+Jul 17 03:21:55 HR-SERVER-01 sshd[3015]: Failed password for charles.ngwenya from 196.54.102.19 port 50018 ssh2
+Jul 17 03:22:01 HR-SERVER-01 sshd[3016]: Failed password for charles.ngwenya from 196.54.102.19 port 50019 ssh2
+Jul 17 03:23:59 HR-SERVER-01 sshd[3017]: Failed password for charles.ngwenya from 196.54.102.19 port 50020 ssh2
+Jul 17 03:26:20 HR-SERVER-01 sshd[3018]: Accepted password for charles.ngwenya from 196.54.102.19 port 50021 ssh2
